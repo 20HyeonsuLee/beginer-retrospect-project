@@ -1,0 +1,59 @@
+export const unit1 = {
+    id:"",
+    name:"clubMan",
+    team:"ally",
+    maxHp:100,
+    hp:100,
+    range:25,
+    damage:20,
+    width:100,
+    height:150,
+    createTime:1,
+    Body:"",
+    Leg:"",
+    motion:"",
+    atteckSpeed:1000,
+    atteckFarSpeed:300,
+    price:20,
+    ref:{}
+};
+export const unit2 = {
+    id:"",
+    name:"splingMan",
+    team:"ally",
+    maxHp:100,
+    hp:100,
+    range:25,
+    damage:20,
+    width:100,
+    height:150,
+    createTime:1,
+    body:"대기",
+    leg:"대기",
+    motion:"",
+    era:"원시",
+    atteckCloseSpeed:1000,
+    atteckFarSpeed:300,
+    
+    ref:{}
+};
+export const unit3 = {
+    id:"",
+    name:"splingMan",
+    team:"ally",
+    maxHp:100,
+    hp:100,
+    range:25,
+    damage:20,
+    width:100,
+    height:150,
+    createTime:1,
+    body:"대기",
+    leg:"대기",
+    motion:"",
+    era:"원시",
+    atteckCloseSpeed:1000,
+    atteckFarSpeed:300,
+    
+    ref:{}
+};
