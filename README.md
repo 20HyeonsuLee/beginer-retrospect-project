@@ -18,9 +18,9 @@
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-![image](https://github.com/20HyeonsuLee/beginer-retrospect-project/assets/127578418/c6ddcef9-da32-405c-8a3a-5deaf8678799)
-![image](https://github.com/20HyeonsuLee/beginer-retrospect-project/assets/127578418/8ba5e999-d013-492a-a98b-3762dcfac2ab)
-![image](https://github.com/20HyeonsuLee/beginer-retrospect-project/assets/127578418/40b05f1d-5655-45f4-8e7d-c7f42ac9f0c9)
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<img src="https://www.zigae.com/static/7666417ed492feef76bbe9fd146a4192/e9beb/styledcomponents.png">
+<img src="https://hybridheroes.de/blog/content/images/2022/03/redux-toolkit-1400.jpg">
 
 
 
