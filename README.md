@@ -13,3 +13,11 @@
 
 ### 3. 우측상단의 메뉴바를 통해 유닛생성, 터렛생성, 터렛판매, 레벨업을 할 수 있다.
 <img width="498" alt="image" src="https://github.com/20HyeonsuLee/beginer-retrospect-project/assets/127578418/a47bf56a-27da-45e8-a61d-14b773102c3c">
+
+$$$ 4. 기술스택
+<img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+![image](https://github.com/20HyeonsuLee/beginer-retrospect-project/assets/127578418/c6ddcef9-da32-405c-8a3a-5deaf8678799)
+
+
