@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
 <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 <img src="https://www.zigae.com/static/7666417ed492feef76bbe9fd146a4192/e9beb/styledcomponents.png">
-<img src="https://hybridheroes.de/blog/content/images/2022/03/redux-toolkit-1400.jpg">
+<img src="https://hybridheroes.de/blog/content/images/2022/03/redux-toolkit-1400.jpg" width="100px">
 
 
 
