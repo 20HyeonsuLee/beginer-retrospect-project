@@ -8,6 +8,7 @@
 
 ### 2. 인게임 화면
 ## 적군의 웨이를 막고 상대의 넥서스를 파괴하는 게임이다.
+## 상대방의 넥서스를 부수거나 나의 넥서스가 부서지면 게임이 끝난다.
 <img width="1687" alt="image" src="https://github.com/20HyeonsuLee/beginer-retrospect-project/assets/127578418/b86b32e4-8ac1-4cf1-9c4d-78556a61d48f">
 
 ### 3. 우측상단의 메뉴바를 통해 유닛생성, 터렛생성, 터렛판매, 레벨업을 할 수 있다.
